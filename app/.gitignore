@@ -1,0 +1,25 @@
+# Node.js
+node_modules/
+
+# Compiled files
+dist/
+*.pnp.js
+
+# Logs and debugging files
+logs/
+*.log
+npm-debug.log*
+
+# Dependency directories
+.pnp/
+.pnp.js
+
+# Optional: macOS specific files
+.DS_Store
+
+# Optional: Windows specific files
+Thumbs.db
+Desktop.ini
+
+# Optional: Editor-specific files
+.vscode/
